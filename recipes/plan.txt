@@ -1,0 +1,13 @@
+For the CSS design.
+1. postion jett img to right of screen
+2. move up all recipe links to align with jett img on left side of page
+3. make the values of the <a> be slighly bigger with maybe some background styles
+
+For each page
+1. Dedicated custom img of jett in the top hand corner with "home" button
+2. Want photos of the dish to be center
+3. I want the Description to have more detail with bigger fonts centered under dish picture
+4. For the list of ingredients add background color like a creme for easy viewing
+5. Instructions should follow the above statement for ingredients
+6. Change back button to go to top of page so that the home button has actual value
+7. Add quirk names to recipes like "Beef Revive me Stew"
