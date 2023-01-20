@@ -3,7 +3,7 @@ Just a base template for later recipes add tags as needed
 <h1></h1>
 <img>
 <h2>Description</h2>
-<p></p<
+<p></p>
 <h2>Ingredients</h2>
 <p></p>
 <ul>
